@@ -8,7 +8,7 @@ Somewhere in Lisbon, Seoul and Bogotá, someone is pressing play on the same son
 
 [See the full presentation (PDF)](WhoTaughtYouToLikeThis.pdf) · [Download the Power BI dashboard (.pbix)](Final_presentation.pbix)
 
-![Who Taught You To Like This?](images/01-cover.png)
+![Who Taught You To Like This?](01-cover.png)
 
 ## Why it matters
 Spotify has more than 760 million users, and 31% of the songs people like were discovered through an algorithm. Not a friend, not the radio, not a record shop.
@@ -26,14 +26,14 @@ We set out to answer three questions:
 ### The world sings in English
 Five English-speaking countries (the US, the UK, Canada, Ireland and Australia) make up about 78% of the global Top 50. More than half of today's hits come from just one of them: the United States. This dominance existed before Spotify. The algorithm didn't create it. It inherited it, and amplified it.
 
-![78% of the world's playlist is made in English](images/02-english.png)
+![78% of the world's playlist is made in English](02-english.png)
 
 ### 30 seconds to catch you
 For almost 30 years, a song took about 4 minutes to tell its story. Then, in 2014, Spotify's 30-second rule arrived: a play only counts, and an artist only gets paid, if you listen for at least 30 seconds. Suddenly an artist had 30 seconds to convince the algorithm they exist. Intros and slow builds disappeared, choruses moved earlier, and songs became 43 seconds shorter.
 
 Songs had been short once before, in the 1960s, when vinyl singles and radio DJs refused to play anything over 3 minutes. This time, nobody decided it. A machine did.
 
-![Spotify made songs 43 seconds shorter](images/03-song-length.png)
+![Spotify made songs 43 seconds shorter](03-song-length.png)
 
 ### The algorithm started editing our emotions
 Valence, Spotify's measure of how happy a song sounds, stayed steady for decades. In 2008 it suddenly dropped. Spotify launched that year, but so did the financial crisis, and the melancholic sound of artists like Drake, The Weeknd and Lana Del Rey. Music was simply reflecting how the world felt.
@@ -47,7 +47,7 @@ Energy tells a quieter story. As it kept falling, the algorithm accidentally cre
 
 Music became infrastructure: something that runs in the background while we do something else.
 
-![After 2008, the world changed and music reflected it](images/04-song-mood.png)
+![After 2008, the world changed and music reflected it](04-song-mood.png)
 
 ### Who sets the trend, and who follows
 The United States, Puerto Rico, Colombia, South Korea and Mexico lead global music, each making up more than 15% of the Top 50 in four or more countries.
@@ -58,7 +58,7 @@ The United States, Puerto Rico, Colombia, South Korea and Mexico lead global mus
 
 Meanwhile India, Brazil and Nigeria, some of the biggest music markets in the world, have huge local industries and almost no influence on what the rest of the world hears.
 
-![Trend setters and followers](images/05-trendsetters.png)
+![Trend setters and followers](05-trendsetters.png)
 
 ### Measuring a country's musical soul
 To find out who stayed truly themselves, we built our own **Cultural Diversity Index (CDI)**: a score from 0 to 100 for 72 countries. Close to 100 means a strong local musical identity. Close to 0 means a country has been absorbed into the global mainstream.
@@ -69,7 +69,7 @@ The score combines:
 - **How different it sounds:** how far a country's average song is from the global sound (danceability, energy, valence, tempo and more)
 - **The world around it:** English proficiency (EF EPI), globalisation (KOF Index) and whether the country has a law protecting local music
 
-![How the Cultural Diversity Index works](images/06-cdi-explained.png)
+![How the Cultural Diversity Index works](06-cdi-explained.png)
 
 Turkey, Nigeria and Brazil score close to 100. They make their own music, for themselves. Switzerland, Luxembourg, Belgium and the Emirates score close to 0, almost fully absorbed.
 
@@ -80,7 +80,7 @@ Three things seem to protect a culture's sound:
 
 And a twist: the United States, the world's biggest trendsetter, scores only 24. It isn't being absorbed. It *is* the mainstream. Which leaves a question: if you share your culture with the entire world, is it still completely yours?
 
-![The Cultural Diversity Index around the world](images/07-cdi-map.png)
+![The Cultural Diversity Index around the world](07-cdi-map.png)
 
 ## So, is everyone starting to sound the same?
 Kind of, but not in the way most people think.
@@ -91,7 +91,7 @@ Kind of, but not in the way most people think.
 
 The algorithm is not making the whole world sound the same. It is making the globalised world sound American, while the culturally specific world fights back with the only tools it has: language, tradition and time.
 
-![So, is the algorithm making the world sound the same?](images/08-conclusion.png)
+![So, is the algorithm making the world sound the same?](08-conclusion.png)
 
 ## What it means for brands
 The CDI shows brands where local culture is still alive, and where it is fading. In culturally unique markets like Brazil or Turkey, speaking the local sound matters. In absorbed markets like Switzerland or Belgium, global culture already is the local culture. And the countries in the middle are the ones to watch, before their sound disappears.
