@@ -6,7 +6,7 @@ Somewhere in Lisbon, Seoul and Bogotá, someone is pressing play on the same son
 
 **96,000 tracks · 73 countries · 5 decades**
 
-[See the full presentation (PDF)](https://1drv.ms/b/c/bc4c7b1366a37864/IQDfhmVVXXjDQbtteuRPMqsnAYjNlgpb7wJwZCqEFdW9tKI?e=f3z962) · [Download the Power BI dashboard (.pbix)](Final_presentation.pbix)
+[See the full presentation (PDF)](https://1drv.ms/b/c/bc4c7b1366a37864/IQDfhmVVXXjDQbtteuRPMqsnAYjNlgpb7wJwZCqEFdW9tKI?e=f3z962) · [Download the Power BI dashboard (.pbix)](https://1drv.ms/u/c/bc4c7b1366a37864/IQDuDastssLfQJPNXWe-BxqaAWhqLzkNcmf3HUOdgleOudw?e=bjq63r)
 
 ![Who Taught You To Like This?](01-cover.png)
 
